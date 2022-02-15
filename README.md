@@ -1,5 +1,6 @@
 # NSView+SystemAppearanceBackgroundColor
-![Demo](Resources/demo.gif) 
+
+![Demo](Resource/demo.gif) 
 
 A NSView Extension for system appearance background color.
 By setting colors for certain system appearance, this extension can change the background color of NSView you specifyed for target appearcen automatically when system appearance changed.
