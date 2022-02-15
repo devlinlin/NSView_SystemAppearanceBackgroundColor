@@ -16,3 +16,6 @@ dependencies: [
 ]
 ```
 
+## License
+
+NSView+SystemAppearanceBackgroundColor is available under the MIT license. See [LICENSE](LICENSE) for more information.
